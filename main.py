@@ -17,3 +17,4 @@ def is_palindrome(text, i = 0):
     return is_palindrome(text, i + 1)
 
 print(is_palindrome("Taco cat"))
+print(is_palindrome("Well hello there !"))
